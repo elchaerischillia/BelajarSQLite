@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar SQLite</string>
+    <string name="masukkanmenu">masukkanmenu</string>
+    <string name="masukkan_menu_lain">masukkan_menu_lain</string>
+    <string name="simpan">simpan</string>
+    <string name="update">update</string>
+    <string name="hapus">hapus</string>
+</resources>
